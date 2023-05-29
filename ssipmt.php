@@ -172,9 +172,9 @@
 
 
 <body>
-     <img src="ssipmt.jpeg" width="100%">
+<img src="ssipmt_new_2.png" width="100%">
 
-     <h1 id="header">Computer Science 8TH Semester</h1>
+     <h1 id="header">Information Technology</h1>
      <hr>
 
 

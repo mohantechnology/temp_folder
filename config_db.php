@@ -5,7 +5,7 @@ $__hostname =   "127.0.0.1" ;
 //your database   user name 
 $__username =  "root" ; 
 //your database password 
-$__password =  "mysqlroot" ;
+$__password =  "" ;
  //your  database name 
 $__db_name =  "php_db" ;
 
